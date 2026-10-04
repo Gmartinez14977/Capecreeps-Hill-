@@ -1,4 +1,4 @@
-# Capecrepps-Hill-
+# Capecreeps-Hill-
 Theme and Storyline 
 
 
@@ -30,5 +30,5 @@ Items:
 6.Broken Mirror 
 
 Villain:
-Mordecai is the ghost of the former owner of Capecrepps Hill. He haunts the Wine Cellar and will catch the player if they enter the room before collecting all eight cursed objects. 
+Mordecai is the ghost of the former owner of Capecreeps Hill. He haunts the Wine Cellar and will catch the player if they enter the room before collecting all eight cursed objects. 
  
