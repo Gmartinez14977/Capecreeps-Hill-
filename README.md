@@ -9,28 +9,28 @@ To escape, the player must explore the mansion and collect eight cursed objects 
 and Curse Stone before entering the Wine Cellar, where Mordecai is waiting. If the player collects all eight items before encountering Mordecai, they escape the mansion and win the game. 
 If the player enters the Wine Cellar before collecting all eight items, Mordecai catches the player and the game ends. 
 
-Rooms 
-Entrance Hall 
-Library 
-Kitchen 
-Dining Room 
-Study 
-Bedroom 
-Attic 
-Guest Bedroom 
-Basement 
-Wine Cellar 
+Rooms: 
+1.Entrance Hall 
+2.Library 
+3.Kitchen 
+4.Dining Room 
+5.Study 
+6.Bedroom 
+7.Attic 
+8.Guest Bedroom 
+9.Basement 
+10.Wine Cellar 
 
-Items 
-Magic Book 
-Silver Knife 
-Cursed Map
-Ancient Key 
-Haunted Doll 
-Broken Mirror 
-Magic Cape 
-Curse Stone 
+Items: 
+1.Magic Book 
+2.Silver Knife 
+3.Cursed Map
+4.Ancient Key 
+5.Haunted Doll 
+6.Broken Mirror 
+7.Magic Cape 
+8.Curse Stone 
 
-Villain 
+Villain:
 Mordecai is the ghost of the former owner of Capecrepps Hill. He haunts the Wine Cellar and will catch the player if they enter the room before collecting all eight cursed objects. 
  
